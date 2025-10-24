@@ -1,4 +1,4 @@
-# Conversational PDF Chat
+# Conversational PDF Chatbot
 
 This is a smart little app that lets you upload your PDF documents and have a conversation about them. It's built with **Streamlit** for the interface and uses **LangChain**, **Groq**, and **ChromaDB** to understand your documents and answer questions.
 
